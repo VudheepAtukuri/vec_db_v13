@@ -1,0 +1,255 @@
+{
+    "queries": [
+      {
+        "query": "How does the text define electricity in terms of human perception?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [33]
+      },
+      {
+        "query": "What role did Thales play in the early study of electricity?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [19]
+      },
+      {
+        "query": "How does the text compare electricity to magnetism?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [24]
+      },
+      {
+        "query": "What does the text state about the concept of the ether?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [37]
+      },
+      {
+        "query": "What was the key discovery made by Örsted regarding electricity and magnetism?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [55]
+      },
+      {
+        "query": "How did Ampère explain the interaction of electric currents?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [66]
+      },
+      {
+        "query": "What role did Faraday play in the discovery of electromagnetic induction?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [69]
+      },
+      {
+        "query": "What was the primary conclusion from Stark’s experiment on spectral line decomposition?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [135]
+      },
+      {
+        "query": "How does the sun’s magnetic field compare to Earth’s magnetic field?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [129]
+      },
+      {
+        "query": "How does the text describe the concept of dielectric strength?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [86]
+      },
+      {
+        "query": "What was Volta’s contribution to the study of electricity?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [90]
+      },
+      {
+        "query": "What does the text state about the transformation of mechanical energy into electrical energy?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [106]
+      },
+      {
+        "query": "What does the term ‘quantum theory’ imply in relation to the Zeeman and Stark effects?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [141]
+      },
+      {
+        "query": "What observations indicate that sunspots represent whirling vortices of electrons?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [128]
+      },
+      {
+        "query": "What principle underlies the generation of power in dynamos?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [107]
+      },
+      {
+        "query": "What conclusion does the text reach about the equivalence of matter and electricity?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [17]
+      },
+      {
+        "query": "What does the phrase 'electricity is electricity' imply?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [18]
+      },
+      {
+        "query": "How is the attraction property of amber described?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [20]
+      },
+      {
+        "query": "What significance does the invention of the dynamo hold in the development of modern electrical systems as described in the text?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [106, 107]
+      },      
+      {
+        "query": "How does the text describe the repulsion of a suspended pith-ball when a rubbed glass rod is brought near?",
+        "relevant_chapter": ["2"],
+        "relevant_paragraphs": [40]
+      },
+      {
+        "query": "How did Dr. Gilbert demonstrate that Earth is a magnet?",
+        "relevant_chapter": ["2"],
+        "relevant_paragraphs": [42]
+      },
+      {
+        "query": "What is also called a dipping needle in magnetic phenomena?",
+        "relevant_chapter": ["2"],
+        "relevant_paragraphs": [48]
+      },
+      {
+        "query": "What does the text report about the dip angle of a compass needle in London?",
+        "relevant_chapter": ["2"],
+        "relevant_paragraphs": [52]
+      },
+      {
+        "query": "What result from Örsted’s experiment demonstrates the deflection of a magnetic needle by an electric current?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [57]
+      },
+      {
+        "query": "How did Faraday’s experiment lead to the discovery of electrodynamic induction?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [69]
+      },
+      {
+        "query": "What is Ampère’s role in quantifying electromagnetic forces?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [66]
+      },
+      {
+        "query": "How is a revolving plate shown to produce a continuous current?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [71]
+      },
+      {
+        "query": "What does the term 'conflictus' refer to in Örsted’s work regarding electric currents?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [59]
+      },
+      {
+        "query": "How do historical experiments by scientists like Gilbert, Faraday, and Ampère contribute to the text’s overall explanation of electromagnetism?",
+        "relevant_chapter": ["2", "3", "4"],
+        "relevant_paragraphs": [42, 66, 69]
+      },      
+      {
+        "query": "What is the name of the book",
+        "relevant_chapter": ["0"],
+        "relevant_paragraphs": [9]
+      },
+      {
+        "query": "How does the text distinguish between static electricity and current electricity, and what implications does this distinction have?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [82, 83]
+      },      
+      {
+        "query": "What makes a dry cell significant in electrical generation?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [93]
+      },
+      {
+        "query": "How are galvanometers and rotating coils used to demonstrate electrodynamic induction in the text?",
+        "relevant_chapter": ["3", "5"],
+        "relevant_paragraphs": [57, 71]
+      },      
+      {
+        "query": "What contrasting explanations of the role of electrons in energy transformation are presented in the text?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [20]
+      },
+      {
+        "query": "What future implications does the text suggest for harnessing intra-atomic energy?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [114, 116]
+      },
+      {
+        "query": "What information does the release date provide about the ebook?",
+        "relevant_chapter": ["0"],
+        "relevant_paragraphs": [11]
+      },
+      {
+        "query": "How does the text describe the use of spectroscopic techniques in understanding electron behavior?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [121, 123]
+      },      
+      {
+        "query": "How is energy stored in space according to the text?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [110]
+      },
+      {
+        "query": "How do Chapters 1 and 3 compare the role of experimental observation in shaping electrical theories?",
+        "relevant_chapter": ["1", "3"],
+        "relevant_paragraphs": [19, 55]
+      },      
+      {
+        "query": "What similarities are highlighted in Chapters 3 and 4 regarding the experimental methods used to study electrical phenomena?",
+        "relevant_chapter": ["3", "4"],
+        "relevant_paragraphs": [57, 92]
+      },      
+      {
+        "query": "What does Lord Kelvin's theory suggest about electrical resistance at absolute zero?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [81]
+      },
+      {
+        "query": "What mechanism does the text describe for the transmission of electrical charge via induction?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [84, 85]
+      },      
+      {
+        "query": "What does Stark's experiment reveal about the effect of electric fields on spectral lines?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [136]
+      },
+      {
+        "query": "How does the text quantify the energy potential contained in matter?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [114]
+      },
+      {
+        "query": "What ethical concerns are raised regarding the control of intra-atomic energy?",
+        "relevant_chapter": ["5"],
+        "relevant_paragraphs": [116]
+      },
+      {
+        "query": "What method did John D. Daniell use to produce a constant electromotive force?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [92]
+      },
+      {
+        "query": "How does the text describe the persistence of electron orbits at absolute zero?",
+        "relevant_chapter": ["3"],
+        "relevant_paragraphs": [80]
+      },
+      {
+        "query": "How does the text relate electrostatic energy to potential energy and magnetic energy to kinetic energy?",
+        "relevant_chapter": ["4"],
+        "relevant_paragraphs": [87]
+      },
+      {
+        "query": "How are 'lines of force' used to characterize the magnetic field?",
+        "relevant_chapter": ["1"],
+        "relevant_paragraphs": [28]
+      },
+      {
+        "query": "What experimental technique is used to detect invisible sunspots, according to the text?",
+        "relevant_chapter": ["6"],
+        "relevant_paragraphs": [132]
+      }      
+    ]
+  }
+  

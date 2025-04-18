@@ -1,0 +1,206 @@
+CHAPTER 7 - THE DISCOVERY OF WIRELESS TELEGRAPHY
+
+The experimental foundation for the discovery of wireless telegraphy
+was laid by the researches of Faraday.[32]
+
+Accepting Faraday’s physical views as a point of departure, James
+Clerk Maxwell (1831-1879), Professor of Experimental Physics in the
+University of Cambridge, began (about 1860) the development of his
+constructive speculations in electrical theory which culminated in the
+now universally accepted electromagnetic theory of light.[33]
+
+Fourteen years after the publication of Maxwell’s classic treatise,
+Heinrich Hertz (1859-1894)—a brilliant pupil of Helmholtz
+(1821-1894)—succeeded in producing electrical discharges from a Leyden
+jar, which oscillations in turn gave rise to electromagnetic waves of
+far greater length than any previously known.[34]
+
+Hertz demonstrated also that the velocity of propagation of these
+waves was the same as that of light-waves—approximately 186,000 miles
+a second, equivalent to about seven times the circumference of the
+earth in one second. It was shown that the only difference between the
+Hertzian (“wireless”) waves, for example, and the light-waves, is in
+their respective length, or, reciprocally, their rates of vibration per
+second. Hertz later demonstrated that these invisible waves produced by
+a Leyden jar could be reflected, refracted, and polarized, as in the
+case with the far shorter light-waves or rays.[35] These results had
+been predicted by Maxwell.
+
+In this great discovery the foundation for wireless telegraphy and
+wireless telephony was laid—for Hertz had found what are now known
+as “wireless” or radio waves—destined, perhaps, to revolutionize our
+methods of obtaining power for machinery, and for transportation, as
+they have already revolutionized our methods of communication. Hertz
+had done more than this: for his investigations made possible a far
+more satisfactory research into the structure of atoms.
+
+“If we were asked to pick out one date that stands out more
+prominently than others in our acquisition of knowledge bearing upon
+the structure of matter,” says Dr. Albert C. Crehore, “it might be this
+epoch-making work of Hertz.”[36]
+
+While it is true that the waves that Hertz discovered and measured
+“differ from light-waves merely in wave-length or period of vibration
+and quality,” on the other hand the difference in wave-length is so
+great that no instrument had as yet been devised to measure or detect
+waves that were meters long, as compared with light-waves but a minute
+fraction of a centimeter in length.
+
+It was Hertz’s task—following up Maxwell’s prediction—to devise an
+instrument which would detect waves not cognizable by our senses alone.
+For this purpose he used a simple loop of wire with the ends brought
+near together, each terminating in a metal ball. When these balls were
+brought almost into contact, a small electrical spark was seen to pass
+between the balls when the “oscillator”—the apparatus used to generate
+the oscillating currents, or electric waves, of high frequency—was set
+in operation.[37]
+
+Hertz not only proved that the speed of electric waves is the same as
+that of light, and that they are subject, under certain conditions, to
+“interference” as are light-waves, but he also succeeded in actually
+measuring the length of the waves produced by his crude apparatus.
+This was accomplished by producing what are known as “standing waves,”
+analogous to the sound-waves produced by an organ-pipe. Moving his
+detector slowly along the wire, Hertz observed that the spark would
+appear when a certain interval of space was reached, and as he
+continued to move the detector the sparks would disappear and reappear
+at regular distances. He rightly concluded that these points of
+disappearance and reappearance of the spark corresponded to the nodes
+and loops of the “standing waves,” representing the wave-length of the
+electrical undulations.
+
+It has since been established that the difference in wave-length
+between the electric undulations produced by Hertz and those of
+light-waves may be enormous or quite moderate. Professor Michelson
+tells us that “a telegraphic wave”, which is practically an
+electromagnetic disturbance, may be as long as 1000 miles. The waves
+produced by the oscillations of a condenser, like a Lyden jar, may be
+as short as 100 feet; the waves produced by a Hertz oscillator may
+be as short as one-tenth of an inch. Between this and the longest
+light-wave there is not an enormous gap, for the latter has a length of
+about 1/1000 inch. Thus the difference between the Hertz vibrations and
+the longest light-wave is less than the difference between the longest
+and shortest light-waves, for some of the shortest oscillations are
+only a few millionths of an inch long. Doubtless even this gap will
+soon be bridged over.[38]
+
+The Hertz apparatus was greatly improved by Auguste Righi, in the
+University of Bologna. In the same class in physics was Marconi, who
+began his fruitful experiments in 1895, one year after Sir Oliver
+Lodge had perfected the coherer. Lodge’s coherer, used by Marconi in
+his early work, consisted of a glass tube containing a pinch of nickel
+and silver filings in equal parts. Crude as this detector was, judged
+by present-day standards, it materially improved the conductivity of
+contact metals in the case of Hertzian waves.
+
+In 1899 wireless communication was established across the English
+Channel, and in 1902 Marconi sent the first wireless message from
+England to America. Today, wireless waves measuring miles from crest to
+crest are being employed in the transmission of messages from points
+separated by thousands of miles, and the human voice has already been
+carried across the Atlantic by radiophone, but only in one direction.
+
+The wireless sending and receiving station of the Dutch government,
+at Kootmyck, in the Province of Gelderland, is equipped to employ
+a 12,000-meter wave-length in sending and receiving simultaneously
+messages between Holland and Java, 7,500 miles distant. It has the
+same capacity as our Long Island (Rocky Point) station, and is
+therefore one of the biggest in the world.
+
+On December 19, 1922, a long distance phonograph which records sounds
+made hundreds of miles away was demonstrated to the Society of Western
+Engineers, by E. H. Colpitts, of the Western Electric Company. The
+transmission of electric power by radio is as yet but a dream; but it
+is a dream which may come true within the next five years.[39]
+
+Signals are now being received from stations situated at distances as
+great as 12,000 miles, made possible, it is believed by the existence
+of an electrical conducting layer—electrified dust expelled by the
+sun—some 150 miles in depth, the bending of the radio-waves around the
+earth being caused by diffraction. Some unknown factor is operating
+to give the signals a strength millions of times greater than can be
+accounted for at present by any plausible theory, according to Prof. J.
+A. Fleming (Fifth Henry Truman Wood Lecture before the Royal Society of
+Arts, London, 1922).
+
+It is not reasonable to assume that no other electromagnetic waves
+remain to be discovered. We may yet hear “the roar of the sun-spots,”
+though Edison’s experiments along this line were unsuccessful. What,
+indeed, were the mysterious “signals” occasionally reported as having
+been received at Marconi wireless stations—registered, it was reported
+in the press, “only when a minimum of sixty-five-mile wave-lengths had
+been established,” but waves issuing from the mighty sun, 93,000,000
+miles distant? However, Marconi tells us that one of the “signals”
+comes as three short raps—“S” in the Morse code. He believes that these
+“signals” may have been sent out from Mars or Venus. Similar mysterious
+“signals” were reported by wireless stations in different parts of the
+world during the apposition of Mars in August, 1924.
+
+“Outside of the radio-waves that are floating about there may be
+hundreds of others which we have not as yet been able to register....
+There may be many other waves coming to us from the sun, of which we
+have no knowledge today.... The human ear cannot hear below eight
+vibrations per second and not higher than about 30,000 vibrations per
+second. Certain animals can hear below and above that scale. By means
+of our vacuum tubes certain researches indicate that a tremendous
+amount of noise goes on below the eight vibrations per second, and
+still more noise above the 30,000 vibrations. Entirely new worlds lie
+in these two directions, of which nothing is known today. The vacuum
+tube is likely to solve these mysteries and take us into the uncharted
+worlds, far into the unknown, within the next few years.”[40]
+
+In March, 1922, the late Dr. Charles P. Steinmetz said that he
+considered well founded the supposition that performances of low-power
+radio sending apparatus in transmitting messages to surprising
+distances gave an indication that the radiations peculiar to wireless
+transmission pass with equal ease through the earth or through the
+“ether.”
+
+Such radiations would be in accordance with accepted electrical laws,
+as the ground, to which both the sending antennae and the receiving
+set are connected, would act as a return circuit for the current.
+Similarly, water might serve as a medium for radio conversations
+between ships, or between ships and the land.
+
+Moreover, it was announced during the same month that wireless
+telephony had been revolutionized by the successful performances of
+the duplex transmitters which the General Electric Company had just
+completed. Conversations were held between New York and passengers
+aboard the steamer “America,” which, at the time, was at a distance of
+360 miles from shore.
+
+The three-electrode audion or vacuum tube was perfected in 1912,
+making radio-telephony possible. In 1921, Reginald A. Heising, a young
+physicist working for a degree of Master of Science at the University
+of Wisconsin, conceived the brilliant idea of putting into the vacuum
+tube the amount of energy produced by the voice, and then getting it
+out many times amplified in the form of high-frequency power in the
+antenna. This problem he soon solved, so far as the principle of the
+modulation system was concerned, and in 1922 the practical problem was
+worked out and the method all but perfected.
+
+All these great utilitarian advances have been made possible by
+the researches of men interested in the advancement of knowledge
+for its own sake. As has been pointed out recently by Dr. Hale
+(“The New Heavens,” Pages 87-88), “Faraday, studying the laws of
+electricity, discovered the principles which rendered the dynamo
+possible. Maxwell, Henry and Hertz, equally unconcerned with material
+advantage, made wireless telegraphy possible.... Wireless telephony and
+transcontinental telephony without wires were both rendered possible by
+studies of the nature of the electric discharge in vacuum tubes.”
+
+In an interview in December, 1922, Dr. Nikola Tesla gave it as his
+opinion, based upon experiments already carried out in his own
+laboratory in New York City, that power flashed through space by radio
+will soon be employed in all the world’s activities.
+
+“Besides bridging enormous distances in flight and wireless
+conversation,” he said, “modern science will span the earth with power
+flashed through the air by radio. Airplanes and ships and trains will
+carry no fuel, but will run by transmitted energy. With wireless power
+no one—explorers, travelers, campers—need be cut off from civilization
+and its comforts.”
+
+“Not only that, but we shall see at great distances by aid of wireless
+energy. And seeing our neighbors across the oceans will make for a
+united social and political world.”

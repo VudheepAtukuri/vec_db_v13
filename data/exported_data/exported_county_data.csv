@@ -1,0 +1,24 @@
+ID: 1, Metadata: {"StateAbbr": "AL", "StateDesc": "Alabama", "CountyName": "Autauga", "CountyFIPS": 1001, "TotalPopulation": 55601, "Geolocation": "POINT (-86.64301145 32.5350198)", "id": 1, "unique_key": "AL-Autauga"}
+
+ID: 2, Metadata: {"StateAbbr": "AL", "StateDesc": "Alabama", "CountyName": "Baldwin", "CountyFIPS": 1003, "TotalPopulation": 218022, "Geolocation": "POINT (-87.72275422 30.72811673)", "id": 2, "unique_key": "AL-Baldwin"}
+
+ID: 3, Metadata: {"StateAbbr": "AL", "StateDesc": "Alabama", "CountyName": "Barbour", "CountyFIPS": 1005, "TotalPopulation": 24881, "Geolocation": "POINT (-85.39330307 31.86925212)", "id": 3, "unique_key": "AL-Barbour"}
+
+ID: 4, Metadata: {"StateAbbr": "AL", "StateDesc": "Alabama", "CountyName": "Bibb", "CountyFIPS": 1007, "TotalPopulation": 22400, "Geolocation": "POINT (-87.12653219 32.99854412)", "id": 4, "unique_key": "AL-Bibb"}
+
+ID: 5, Metadata: {"ID": 5, "StateAbbr": "DU", "StateDesc": "DUMMY2", "CountyName": "DUM2", "CountyFIPS": 123, "TotalPopulation": 39486135, "Geolocation": "POINT (-87.28685 31.5350198)", "id": 5, "unique_key": "DU-DUM2"}
+
+ID: 6, Metadata: {"ID": 6, "StateAbbr": "DU", "StateDesc": "DUMMY3", "CountyName": "DUM3", "CountyFIPS": 124, "TotalPopulation": 35862458, "Geolocation": "POINT (-86.6213454145 32.53141598)", "id": 6, "unique_key": "DU-DUM3"}
+
+ID: 7, Metadata: {"StateAbbr": "AL", "StateDesc": "Alabama", "CountyName": "Butler", "CountyFIPS": 1013, "TotalPopulation": 19680, "Geolocation": "POINT (-86.68030416 31.75259734)", "id": 7, "unique_key": "AL-Butler"}
+
+ID: 8, Metadata: {"StateAbbr": "AL", "StateDesc": "Alabama", "CountyName": "Calhoun", "CountyFIPS": 1015, "TotalPopulation": 114277, "Geolocation": "POINT (-85.82579874 33.77170768)", "id": 8, "unique_key": "AL-Calhoun"}
+
+ID: 11, Metadata: {"StateAbbr": "DU", "StateDesc": "DUMMY2", "CountyName": "DUM2", "CountyFIPS": 123, "TotalPopulation": 39486135, "Geolocation": "POINT (-87.28685 31.5350198)", "id": 11, "unique_key": "DU-DUM2"}
+
+ID: 12, Metadata: {"StateAbbr": "DU", "StateDesc": "DUMMY3", "CountyName": "DUM3", "CountyFIPS": 124, "TotalPopulation": 35862458, "Geolocation": "POINT (-86.6213454145 32.53141598)", "id": 12, "unique_key": "DU-DUM3"}
+
+ID: 13, Metadata: {"StateAbbr": "DU", "StateDesc": "DUMMY2", "CountyName": "DUM2", "CountyFIPS": 123, "TotalPopulation": 39486135, "Geolocation": "POINT (-87.28685 31.5350198)", "id": 13, "unique_key": "DU-DUM2"}
+
+ID: 14, Metadata: {"StateAbbr": "DU", "StateDesc": "DUMMY3", "CountyName": "DUM3", "CountyFIPS": 124, "TotalPopulation": 35862458, "Geolocation": "POINT (-86.6213454145 32.53141598)", "id": 14, "unique_key": "DU-DUM3"}
+

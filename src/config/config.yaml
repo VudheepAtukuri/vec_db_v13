@@ -1,0 +1,17 @@
+data_source: txt  # options: txt, csv or both
+embedding_model: "BAAI/bge-base-en-v1.5"  # Embedding model to use
+milvus:
+  host: localhost  # Milvus Docker container host
+  port: 19530      # Milvus port as exposed by the Docker container
+vector_db_doc:
+  collection_name: ebook_collection  # Base collection name
+  vector_dim: 768  # Embedding vector dimension (updated to match schema)
+  top_k_retrieve: 2  # Number of top similar facts to retrieve
+  allow_insert_new_data: false  # Option to allow inserting new data
+  allow_delete_data: false  # Option to allow deleting data
+  allow_update_data: false  # Option to allow updating data
+  db_path: "milvus_default.db"
+  search_mode: abstracted  # Options: "abstracted" or "naive"
+  partition_prefix: "summary_"  # Updated partition prefix for paragraph collection
+  summary_collection_name: summary_collection200
+  paragraph_collection_name: paragraph_collection200
